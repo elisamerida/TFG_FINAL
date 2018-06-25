@@ -1,0 +1,21 @@
+MANUAL DE UTILIZACIÓN DE LA HERRAMIENTA
+
+1. Ir a la carpeta TFG que hay en el escritorio.
+
+2. Hacer clic con el botón derecho del ratón y seleccionar la opción 'Abrir en Terminal'.
+
+3. Escribir en línea de comandos la siguiente orden: 
+	java -jar jython.jar interfaz.py
+
+4. En la interfaz que se abrirá, seleccionar la opción de 'Sincronización de cookies'. 
+   La opción de 'Restauración de cookies' no tiene funcionalidad y está pensada para futuras implementaciones.
+
+5. 
+	a) Si se desea analizar una única URL, introducirla a mano en el espacio reservado para ello.
+	b) Si se desea analizar varias URLs, pulsar el botón 'Seleccionar fichero'. Se abrirá un cuadro de 
+	   diálogo dónde se elegirá un fichero de extensión .txt que las contenga.
+
+6. Pulsar el botón 'Ejecutar'.
+
+
+

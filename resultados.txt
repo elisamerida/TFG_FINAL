@@ -1,0 +1,74 @@
+===========================================================================================
+======================================BASE DE DATOS 1======================================
+===========================================================================================
+
+===========================================================================================
+ ID y numero de dominios que lo conocen:
+43748355130176492033403705221460164240	7
+e4fbeec0-3a37-49f5-acb1-3bc1e93f59c0	2
+5cf8a1bfd3bc326060e41e8f4264b1b7	2
+87807f75-b2ff-4804-9777-686301f2eb32	2
+
+===========================================================================================
+ Dominio y IDs que dicho dominio conoce:
+demdex.net	3
+addthis.com	3
+sharethis.com	1
+scorecardresearch.com	1
+eyeota.net	1
+tapad.com	1
+advertising.com	1
+mookie1.com	1
+areyouahuman.com	1
+
+===========================================================================================
+ Dominio y numero de visitas de del historial conocido:
+demdex.net	3	8	6	9	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+addthis.com	3	8	6	9	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+sharethis.com	1	2	6	8	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+scorecardresearch.com	1	7	6	9	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+eyeota.net	1	7	6	9	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+tapad.com	1	7	6	9	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+advertising.com	1	7	6	9	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+mookie1.com	1	7	6	9	6
+A un salto: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+areyouahuman.com	1	2	0	8	6
+A un salto: 
+A dos saltos: kennedykrieger.org,safekids.org,moment-um.org,teenagecancertrust.org,nih.gov,amazingkids.org,
+
+
+===========================================================================================
+ RESUMEN DE ESTADISTICAS:
+
+NUMERO DE IDS: 19
+NUMERO DE IDS COOKIES: 23
+NUMERO DE IDS IMPLICADOS EN SINCRONIZACIONES: 7
+NUMERO DE IDS COOKIES IMPLICADOS EN SINCRONIZACIONES: 10
+NUMERO DE DOMINIOS IMPLICADOS EN SINCRONIZACIONES 9
+DOMINIOS POR CADA ID: 
+ Minimo=2 |  Media=3.25 |  Mediana=2.0 |  Maximo=7
+ID POR CADA DOMINIO: 
+ Minimo=1 |  Media=1.44444444444 |  Mediana=1.0 |  Maximo=3
